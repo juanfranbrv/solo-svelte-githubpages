@@ -15,7 +15,7 @@ function cambiarMensaje() {
 
 <h1>{mensaje}</h1>
 <img id="boton" src="boton_play.png" alt="" on:click="{cambiarMensaje}">
-
+<p>Por fin en GitHub Pages !!!</p>
 
 <style>
   h1 {
